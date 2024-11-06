@@ -32,7 +32,8 @@ You've been tasked with identifying which Citibike stations could be given more 
 1. Write a query to return the ten stations that had the most starting journeys on 2018-04-18. The output should include each station's name, the number of bikes available at each station, and each station's busiest hour for starting journeys on that day.
 
 2. Assuming that each station is fully restocked to have `capacity` bikes at midnight daily, which of the ten stations from question 1 do you think is the best candidate?
-Use `bigquery-public-data.new_york_citibike.citibike_trips` to track bikes as they are taken and returned from each station.
+Use `bigquery-public-data.new_york_citibike.citibike_trips` to track bikes as they are taken and returned from each station to help with your answer.
 Write a query to calculate this.
+Don't use any machine learning algorithms to answer this question.
 
-3. Can you derive any other insight (of your choosing) from this data?
+4. Can you derive any other insight (of your choosing) from this data?
