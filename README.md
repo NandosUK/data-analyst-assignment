@@ -4,7 +4,7 @@ This assignment should take about an hour to complete.
 The queries that you write should be of production quality, code you are proud of and with consideration of future maintenance that could be done by another team.
 
 For each question write the code that you've written and any comments or documentation that you think might be useful to help someone understand the data.
-You can present your working in your preferred format.
+You can present your solutions in any preferred format; please email them to your interview contact at least 24 hours before the scheduled interview.
 
 
 ## Prerequisites
