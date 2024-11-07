@@ -1,5 +1,8 @@
 # Nando's Data Analyst Assignment
 
+As a organisation we are always looking to be data informed and use our skills and data to provide clear and concise information to help answer business questions and optimise how things work.
+This task is looking to understand your coding and presentation skills and how you infer and show action-orientated insight.
+
 This assignment should take about an hour to complete.
 The queries that you write should be of production quality, code you are proud of and with consideration of future maintenance that could be done by another team.
 
@@ -36,4 +39,5 @@ Use `bigquery-public-data.new_york_citibike.citibike_trips` to track bikes as th
 Write a query to calculate this.
 Don't use any machine learning algorithms to answer this question.
 
-4. Can you derive any other insight (of your choosing) from this data?
+3. Please put together one or two slides (or similar presentation method) to display some information/trends and derive other insight and some recommendations that will help Citibike.
+This presentation should be time-limited to a maximum of two minutes.
