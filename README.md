@@ -50,4 +50,4 @@ For the second assignment, you've been tasked with reviewing and providing feedb
 
 Please provide a comprehensive review of the dashboard as if you were mentoring a junior analyst. You can provide your feedback in whichever format you think is best.
 
-**Note: **This dashboard contains made up data. So don't get too hung up on validating the numbers themselves, but instead focus your review on what kinds of checks you would perform and other feedback you would give
+Note: This dashboard contains made up data. So don't get too hung up on validating the numbers themselves, but instead focus your review on what kinds of checks you would perform and other feedback you would give
