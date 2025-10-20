@@ -45,8 +45,10 @@ Don't use any machine learning algorithms to answer this question.
 3. Please put together one or two slides (or similar presentation method) to display some information/trends and derive other insight and some recommendations that will help Citibike.
 This presentation should be time-limited to a maximum of two minutes.
 
+---
+
 ## Task 2: Dashboard Review
-For the second assignment, you've been tasked with reviewing and providing feedback on a PDF export of a mock Looker dashboard focused on Waste & Recycling metrics. This dashboard has been created by a junior analyst and requires review before being shared with senior stakeholders. The PDF should have been sent through alongside these instructions, but do reach out if you have any issues accessing.
+For the second assignment, you've been tasked with reviewing and providing feedback on a PDF export of a mock Looker dashboard focused on Waste & Recycling metrics. This dashboard has been created by a junior analyst and requires review before being shared with senior stakeholders. The PDF is available in this repo at `dashboard.pdf`.
 
 Please provide a comprehensive review of the dashboard as if you were mentoring a junior analyst. You can provide your feedback in whichever format you think is best.
 
